@@ -35,8 +35,7 @@ $('#inputName').keypress(function(e) {
     $('#inputName').val('');
   }
 });
-$('.clear').click(function() {
-  var list = $('<li>'); {
-  $({html:list}).remove();
-}
-});
+// $('.clear').click(function() {
+//   remove(({html:'<li>'});
+//
+// });
