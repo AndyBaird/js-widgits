@@ -1,0 +1,19 @@
+.menu-container {
+ background-color: #999999;
+}
+
+.menu-modal {
+ border: 2px solid black;
+ height: 200px;
+ width: 200px;
+ border-radius: 15px;
+ margin-top: 20px;
+ background-color: white;
+ display: none;
+}
+
+.dynamic-list {
+  margin:3em;
+  padding:1em;
+  border: 1px dotted black;
+}
